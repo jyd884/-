@@ -1,0 +1,10 @@
+{
+  "java.project.sourcePaths": [
+    "实验3材料",
+    "实验3材料/学生_实验三代码/学生_实验三代码"
+  ],
+  "java.project.outputPath": "实验3材料/out",
+  "java.project.referencedLibraries": [
+    "实验3材料/lib/**/*.jar"
+  ]
+}
